@@ -1,5 +1,4 @@
 # Utilizing Generative AI to Improve Health Literacy: Health Info GPT
-An AI application will be developed to condense complex health information into simpler, more digestible main points, with options for further simplification and translation into other languages like Spanish.
 
 ## Overview
 An AI application was developed to condense complex health information into simpler, more digestible main points, with options for further simplification and translation into other languages like Spanish. This tool will also allow users to highlight specific keywords to locate and understand relevant information efficiently.
